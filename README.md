@@ -17,7 +17,7 @@ Run ng build to build the project. The build artifacts will be stored in the dis
 Further help:-
 To get more help on the Angular CLI use ng help or go check out the Angular CLI  https://cli.angular.io/.
 
-
+some screenshots:-
 
 ![screenshot 3](https://user-images.githubusercontent.com/46646996/51088644-2bd6cf80-1788-11e9-9935-2e96b0435a4f.png)
 ![screenshot 4](https://user-images.githubusercontent.com/46646996/51088645-2c6f6600-1788-11e9-974c-12dfc07194b9.png)
